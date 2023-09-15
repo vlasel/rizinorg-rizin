@@ -60,6 +60,7 @@ RzAsmPlugin rz_asm_plugin_avr = {
 		"ATmega640,"
 		"ATmega88,"
 		"ATxmega128a4u,"
+		"ATTiny13,"
 		"ATTiny48,"
 		"ATTiny88,"
 };

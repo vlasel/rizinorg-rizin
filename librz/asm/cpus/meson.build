@@ -9,6 +9,7 @@ sdb_files = [
   'avr-ATmega88',
   'avr-ATmega16',
   'avr-ATmega168',
+  'avr-ATTiny13',
   'avr-ATTiny48',
   'avr-ATTiny88',
 ]
